@@ -1,12 +1,13 @@
 ---
-title: "About"
+title: "About us"
 image: "2014-first.png"
 weight: 8
 ---
 
-This is **Introduction**, a minimalist website theme made for [Hugo](https://gohugo.io).
+오버플로우는 자유롭게 오픈소스 활동을 하고, 개발 지식을 공유하고,   
+필요할 때 모여서 코딩하는 오픈소스 동아리입니다. 
 
-#### 활동??
+#### 활동
 - Linux commits: 고수창
 
 #### 수상내역
