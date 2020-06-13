@@ -1,5 +1,7 @@
 ---
 title: "Contact"
+image: "profile.jpg"
+weight: 8
 ---
 
 In the Contact section of **Introduction**, you may optionally display the current time in your preferred timezone.
