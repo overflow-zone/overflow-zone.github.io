@@ -1,8 +1,8 @@
 ---
-title: "Photography"
-weight: 10
+title: "맛집 탐방"
+weight: 1
 ---
 
-## Sometimes I take pictures
+## 맛집탐방
 
 This project is about the pictures I take. Sometimes, they are pictures of cats.

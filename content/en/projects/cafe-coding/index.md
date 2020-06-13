@@ -1,8 +1,8 @@
 ---
-title: "Photography"
-weight: 10
+title: "카페 코딩"
+weight: 1
 ---
 
-## Sometimes I take pictures
+## 카페 코딩
 
 This project is about the pictures I take. Sometimes, they are pictures of cats.

@@ -1,9 +1,9 @@
 ---
 title: "celery.node"
-weight: 1
+weight: 3
 ---
 
 ## celery.node
-[Repositroy](https://github.com/actumn/celery-node)
+[Repositroy](https://github.com/actumn/celery.node)
 
 
