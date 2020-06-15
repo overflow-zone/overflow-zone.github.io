@@ -1,9 +1,8 @@
 ---
-title: "Google Summer of Code (plan)"
+title: "Google Summer of Code (예정)"
 weight: 3
 ---
 
 ## Google Summer of Code
-[Repositroy](https://github.com/shlee322/delivery-tracker)
 
 

@@ -3,4 +3,4 @@ title: "![IMAGE](/img/overflow-logo.png)"
 headless: true
 ---
 
-Open Source activity club of Konkuk University students.
+Open source activity club of Konkuk University students.

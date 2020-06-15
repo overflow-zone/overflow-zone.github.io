@@ -1,6 +1,6 @@
 ---
 title: "맛집 탐방"
-weight: 1
+weight: 4
 ---
 
 ## 맛집탐방
