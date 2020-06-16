@@ -1,6 +1,6 @@
 baseURL                          = "https://overflow-club.github.io/"  # Your domain name. Must end with "/"
 theme                            = "introduction"
-DefaultContentLanguage           = "ko"                    # Default language for multilingual sites
+DefaultContentLanguage           = "en"                    # Default language for multilingual sites
 # disqusshortname                 = ""                       # https://gohugo.io/content-management/comments
 # googleAnalytics                 = ""                       # https://gohugo.io/templates/internal/#google-analytics
 
@@ -71,13 +71,13 @@ DefaultContentLanguage           = "ko"                    # Default language fo
   tag = "tags"
 
 [languages]
-    [languages.ko]
-        languageName     = "Korean"
-        languageCode     = "ko-kr"
-        contentDir       = "content/ko"
+    [languages.en]
+        languageName     = "English"
+        languageCode     = "en-US"
+        contentDir       = "content/en"
         weight           = 0
         title            = "Introduction"
-        [languages.ko.params]
+        [languages.en.params]
             description  = "Website Description"   # Max 160 characters show in search results
             # footerText   = ""                      # Text to override default footer text (markdown allowed)
 
