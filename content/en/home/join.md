@@ -4,17 +4,16 @@ image: "profile.jpg"
 weight: 100
 ---
 
+#### 이런 분이셨으면 좋겠습니다 (1개만 충족하면 ok)
+- 분야에 관계없이 만들고자 하는 게 있으신 분 (게임, 웹서비스, 모바일 앱, 임베디드, 보안 등)
+- 컴퓨터가 좋으신 분
+- 인터넷 문화에 익숙하신 분
+- 번뜩이는 마케팅, 기획 아이디어 가지신 분
+- Geek 또는 nerd
+- 오픈소스 컨트리뷰션 하고 싶으신 분
 
-#### Requirements for join
-- Geek
-- A person who has been recommended by an existing club member
-- Open source contributor
-- Confidence in programming
-- GPA >= 3.8 or GPA <= 2.5
-
-
-
-#### How to join
-1. Please send your resume to recruit@overflow.zone
-2. Club members will vote to decide whether or not to accept you as a member of the club.
-3. In some cases, additional procedures may exist.
+#### 이런 분이라면 프리패스
+- github 계정 가지고 계신 분
+- 코딩 덕후
+- 개인프로젝트 해보신 분 (무엇이든 상관없습니다. hello world 부터 웹페이지까지)
+- 동아리 멤버 추천 받으신 분
