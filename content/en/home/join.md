@@ -17,3 +17,7 @@ weight: 100
 - 코딩 덕후
 - 개인프로젝트 해보신 분 (무엇이든 상관없습니다. hello world 부터 웹페이지까지)
 - 동아리 멤버 추천 받으신 분
+
+상시 모집중입니다. 아래 두가지 중 선호하시는 방법으로 지원 부탁드립니다 :)
+- 이력서 메일지원: [link](mailto:actumn814@gmail.com?subject=[Overflow%20지원]학과학번이름&cc=ko9459@gmail.com,shlee322@gmail.com)
+- 구글폼: [link](https://forms.gle/Jr6NLXcarb6zZRMe9)
