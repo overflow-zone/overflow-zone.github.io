@@ -7,4 +7,4 @@ weight: 30
 
 [권혁규](https://github.com/anymate98) [이유진](https://github.com/emiling) [이선명](https://github.com/actumn) [서지원](https://github.com/greenun) [이선엽](https://github.com/qbx2) [고수창](https://github.com/suchangko) [강지원](https://github.com/jwkapple)
 
-[김하정](https://github.com/fell8000) [전계원](https://github.com/JeonK1) 이지영
+[김하정](https://github.com/fell8000) [전계원](https://github.com/JeonK1) 이지영 [이현수](https://github.com/incleaf)
